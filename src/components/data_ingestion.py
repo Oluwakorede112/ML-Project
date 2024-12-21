@@ -1,0 +1,1 @@
+# here we write a script that fetches data from a source or different sources e.g a database.
